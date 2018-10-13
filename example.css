@@ -1,0 +1,21 @@
+body {
+	background-color: #C8C8C8;
+	background-color: hsl(0, 0%, 78%);
+	color: white;
+	padding: 20px;
+	font-family: "Comic Sans MS", "Monotype Corsiva";
+	font-size: 32px;}
+h1 {
+	background-color: DarkCyan;
+	font-size:75%;
+	padding: inherit;}
+h2 {
+	background-color: #ee3e80;
+	font-size: 1.5em;
+	padding: inherit;}
+p {
+	background-color: #ffffff;
+	background-color: hsla(0,100%,100%,0.5);
+	color: #64645A;
+	font-size: 1em;
+	padding: inherit;}
